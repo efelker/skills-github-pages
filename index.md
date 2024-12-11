@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Marion County COVID-19 Infographic
 ---
 
